@@ -1,8 +1,9 @@
-This repository contains a program written in Python using its web3py library to inspect a block's number, ID, hashrate, protocol, account balance and other data on the Ethereum blockchain.
+Target: To develop a neural network that can predict the probability of an XOR-operation's result using JavaScript.
 
-To be noted:
-(1) Ethereum is a blockchain network that is widely adopted
-(2) Web3.py is a Python library that interacts with the Ethereum blockchain
-(3) Infura provides APIs to use remote nodes
+Requirements: 
+(1)npm
+(2) BrainJS library
 
+In this program, a neural net is given the training data of XOR-operation, gets trained and finally predicts the output of XOR-operation quite successfully.
 
+You may test this program in any browser that has JavaScript-enabled.
